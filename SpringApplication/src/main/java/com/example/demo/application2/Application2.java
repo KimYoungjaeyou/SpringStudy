@@ -4,9 +4,6 @@ import java.util.Arrays;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
-
-import com.example.demo.application2.BookService;
 
 public class Application2 {
 

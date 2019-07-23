@@ -18,7 +18,7 @@ public class SpringApplication14Application {
 	}
 
 	
-// messagesource!!!!!!!!!!!사용하는거~~
+ //messagesource!!!!!!!!!!!사용하는거~~
 //	@Bean
 //	public MessageSource messageSource() {
 //	ReloadableResourceBundleMessageSource messageSource = new ReloadableResourceBundleMessageSource();
